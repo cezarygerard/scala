@@ -1,0 +1,26 @@
+INDEX VERSION 1.126+/home/czarek/STUDIA/praca/scala/workspace/.metadata/.plugins/org.eclipse.jdt.core
+676533104.index
+572487335.index
+3489297892.index
+1538988648.index
+3644355632.index
+2218083660.index
+1525719707.index
+2169658122.index
+3842495342.index
+2155142931.index
+1698044383.index
+3126397693.index
+3031787073.index
+3056353325.index
+2642514657.index
+747777516.index
+882293821.index
+469616879.index
+225678325.index
+1177882070.index
+3956664589.index
+4074204920.index
+4011991818.index
+2418834148.index
+2687044429.index
