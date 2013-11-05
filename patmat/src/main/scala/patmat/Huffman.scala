@@ -361,5 +361,11 @@ object Huffman {
     val codeTable = convert(tree)
     quickEncodeHelper(codeTable, text)
   }
+  
+
+    def main(args: Array[String]) {
+      println("Hello, world!")
+    }
+ 
 
 }
